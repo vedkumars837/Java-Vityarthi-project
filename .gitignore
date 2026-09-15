@@ -1,0 +1,19 @@
+# Compiled classes
+bin/
+*.class
+
+# Runtime-generated data (created automatically on first run)
+data/
+logs/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
